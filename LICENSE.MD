@@ -1,4 +1,4 @@
-Bright Software License
+# Bright Software License
 
 ---
 
