@@ -1,8 +1,8 @@
 # Bright Software License
 
----
-
 Terms and Conditions of Software and Source
+
+---
 
 **By Bright Software Foundation**
 
