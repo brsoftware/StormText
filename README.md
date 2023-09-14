@@ -42,3 +42,33 @@ You don't need to install the whole Qt framework again but use directly the exec
 that we provided on GitHub releases. Just download and follow the instructions to install
 the application, similar to what you will do with other applications that you have installed
 them before.
+
+# Mailing list and Issues
+Raise an issue on our GitHub repository page if you don't understand how to operate in StormText;
+or discover a problem.
+
+If you don't understand how to operate a specific function in StormText, we advise you to change the title
+of your issue to `[Seeking Operation Instructions] ...`, where `...` is the function you are looking
+for.
+
+If you find a problem and hope we fix it, you can also raise an issue and then name the title of the
+issue to `[Bug report] ...`.
+
+If you want to *add* some more wonderful functionalities to this app, you might have to raise an
+issue, as always; then name the title of the issue to `[Mailing list] ...`.
+
+# Contribution.
+If you think we Bright Software Foundation are too slow to make your idea on the way and to come
+into the place, you can contribute to us. Contribution is quite hard if you cannot understand the
+basic logic and the kernel of this app, including Qt, QScintilla and the other files in this project.
+However, you will find yourself proud after contributing a lot and sharing your ideas with other
+people.
+
+If you don't want to contribute; that's Okay. Nothing will be affected even if you do not want
+to do so.
+
+If you would like to do so, make sure that in your code doesn't contain any inappropriate, offensive
+or unacceptable-by-the-public. A proper regulation, as known as the Code of Conduct, will be released
+later on. If you make sure that nothing went wrong, you need to fork our repository \(which you need to
+create a GitHub account first\), then upload your own source code to the repository. Then you can send
+us a pull-request, in *this* one. We would like to hear from you.
