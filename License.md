@@ -6,7 +6,7 @@ Terms and Conditions of Software and Source
 
 ** By Bright Software Foundation **
 
-    Version 1.0.0, January 2023
+Version 1.0.0, January 2023
 
 # 1. 	Definitions
 
